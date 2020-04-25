@@ -11,6 +11,6 @@ pip2 install - r requirements.txt
 ```
 
 ## Screenshot 
-https://i.postimg.cc/37Dxvjsp/Screenshot-20200425-141524-Termux.jpg
+https://i.postimg.cc/37Dxvjsp/Screenshot-20200425-141524-Termux.jpg) 
 
 ### Main Input: python2 TME
