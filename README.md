@@ -1,6 +1,6 @@
-# TME - Termux Massive Exploitation 
+# TME - Termux Massive Exploitation 💥
 
-### Installing TME
+### 💿 Installing TME: 💿
 ```
 apt upgrade -y;apt update -y
 apt install python python2 git figlet
@@ -10,10 +10,10 @@ pip2 install - r requirements.txt
 python2 TmE
 ```
 
-## Screenshot 
+## 📸 Screenshot 📸
 ![Screenshot](https://i.postimg.cc/37Dxvjsp/Screenshot-20200425-141524-Termux.jpg) 
 
-### My Accounts
+### 👤 My Accounts 👤
 
 * [TELEGRAM](https://t.me/termuxxhacking)
 
